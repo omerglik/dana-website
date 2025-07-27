@@ -1,0 +1,32 @@
+# robots.txt לאתר דנה גליקמן - קלינאית תקשורת מוסמכת
+
+# מתיר לכל רובוטי החיפוש לסרוק את האתר
+User-agent: *
+Allow: /
+
+# חוסם גישה לקבצי מערכת ותיקיות פרטיות
+Disallow: /api/
+Disallow: /_next/
+Disallow: /node_modules/
+Disallow: /.git/
+Disallow: /src/
+
+# מתיר גישה לקבצים חשובים לSEO
+Allow: /favicon.ico
+Allow: /dana-logo.png
+Allow: /dana-photo.png
+Allow: /*.css
+Allow: /*.js
+
+# מיקום קובץ Sitemap (יתעדכן כשניצור אותו)
+Sitemap: https://dana-glikman.co.il/sitemap.xml
+
+# הוראות ספציפיות לרובוטי חיפוש מרכזיים
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# זמן המתנה בין בקשות (בשניות)
+Crawl-delay: 1 
