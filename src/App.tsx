@@ -208,7 +208,7 @@ function App() {
             <div className="order-2 md:order-1">
               <h2 id="hero-heading" className="text-5xl md:text-6xl font-bold text-gray-900 leading-tight mb-6">
                 מקצועיות,
-                <span className="text-primary-600 block">אמפתיה וחדשנות</span>
+                <span className="text-purple-600 block">אמפתיה וחדשנות</span>
               </h2>
               <p className="text-xl text-gray-600 mb-8 leading-relaxed">
                 מתמחה בטיפול בהפרעות תקשורת, דיבור ושפה. עם ניסיון של מעל 5 שנים, אני מספקת טיפול מותאם אישית לכל מטופל.
