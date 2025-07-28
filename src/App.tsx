@@ -214,7 +214,7 @@ function App() {
                 מתמחה בטיפול בהפרעות תקשורת, דיבור ושפה. עם ניסיון של מעל 5 שנים, אני מספקת טיפול מותאם אישית לכל מטופל.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
-                <a href="#contact" className="bg-primary-600 text-white px-8 py-4 rounded-full hover:bg-primary-700 transition-all duration-300 font-medium text-lg shadow-lg hover:shadow-xl transform hover:-translate-y-1 hover-lift inline-block text-center">
+                <a href="#contact" className="bg-purple-600 text-white px-8 py-4 rounded-full hover:bg-purple-700 transition-all duration-300 font-medium text-lg shadow-lg hover:shadow-xl transform hover:-translate-y-1 hover-lift inline-block text-center">
                   שלחו הודעה
                 </a>
               </div>
