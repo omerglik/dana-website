@@ -208,13 +208,13 @@ function App() {
             <div className="order-2 md:order-1">
               <h2 id="hero-heading" className="text-5xl md:text-6xl font-bold text-gray-900 leading-tight mb-6">
                 מקצועיות,
-                <span className="text-purple-600 block">אמפתיה וחדשנות</span>
+                <span className="text-purple-500 block">אמפתיה וחדשנות</span>
               </h2>
-              <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-                מתמחה בטיפול בהפרעות תקשורת, דיבור ושפה. עם ניסיון של מעל 5 שנים, אני מספקת טיפול מותאם אישית לכל מטופל.
+              <p className="text-xl text-gray-600 mb-8 leading-relaxed font-semibold">
+                שמי דנה גליקמן קלינאית תקשורת עם רישיון משרד הבריאות עם ניסיון של מעל 6 שנים, אני מספקת טיפול מותאם אישית לכל מטופל.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
-                <a href="#contact" className="bg-purple-600 text-white px-8 py-4 rounded-full hover:bg-purple-700 transition-all duration-300 font-medium text-lg shadow-lg hover:shadow-xl transform hover:-translate-y-1 hover-lift inline-block text-center">
+                <a href="#contact" className="bg-purple-500 text-white px-8 py-4 rounded-full hover:bg-purple-600 transition-all duration-300 font-medium text-lg shadow-lg hover:shadow-xl transform hover:-translate-y-1 hover-lift inline-block text-center">
                   שלחו הודעה
                 </a>
               </div>
